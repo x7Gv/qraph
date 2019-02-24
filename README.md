@@ -1,3 +1,3 @@
 # qraph
-An adaptive data visualization / function graphing program
-\nmade as hobbying for hobbying
+An adaptive data visualization / function graphing program</br>
+made as hobbying for hobbying
